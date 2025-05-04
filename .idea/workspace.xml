@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e3d5249-c989-4c10-85a4-f774a5ed2d13" name="Changes" comment="" />
+    <list default="true" id="0e3d5249-c989-4c10-85a4-f774a5ed2d13" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,11 +26,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="AR-66" />
-                    <option name="lastUsedInstant" value="1746384846" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1746384717" />
+                    <option name="lastUsedInstant" value="1746385626" />
                   </RecentBranch>
                 </list>
               </option>
@@ -42,7 +41,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2waunfCGa0VyzWSAyUtOeK1VWZ7" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -112,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746292173667</updated>
       <workItem from="1746292175248" duration="9407000" />
-      <workItem from="1746385053531" duration="336000" />
+      <workItem from="1746385053531" duration="618000" />
     </task>
     <servers />
   </component>
